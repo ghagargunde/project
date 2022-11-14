@@ -1,3 +1,3 @@
 # project
 
-click to visit website : https://ghagargunde.github.io/project/
+Your site is live at: https://ghagargunde.github.io/project/
